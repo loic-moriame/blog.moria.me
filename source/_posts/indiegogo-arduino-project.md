@@ -1,7 +1,7 @@
 title: indiegogo arduino project
 date: 2013-08-09 00:30:06
-tags: [arduino, indiegogo]
-categories: [crowfounding, projet]
+categories: [crowfounding]
+tags: [arduino, indiegogo, crowfounding]
 ---
 
 Je n'avais pas fais attention, mais le projet [Indiegogo](http://www.indiegogo.com) [de carte compatible adruino à 9$](http://www.indiegogo.com/projects/9-arduino-compatible-starter-kit-anyone-can-learn-electronics/x/2676048) n'a pas pour but de lancer une production à grande échelle.

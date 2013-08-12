@@ -1,6 +1,7 @@
 title: C'est parti !
 date: 2013-08-07 01:06:08
 categories: de tout de rien
+tags: [hexo, gandi.net, crazyflie]
 ---
 
 Et voila !<br />
