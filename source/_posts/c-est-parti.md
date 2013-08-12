@@ -1,6 +1,6 @@
 title: C'est parti !
 date: 2013-08-07 01:06:08
-tags: de tout de rien
+categories: de tout de rien
 ---
 
 Et voila !<br />

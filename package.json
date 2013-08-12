@@ -6,7 +6,10 @@
     "node": ">= 0.6.0",
     "npm": ">= 1.1.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "hexo-generator-feed": "0.0.10",
+    "hexo-generator-sitemap": "0.0.6"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-manifest": "~0.4.0"
