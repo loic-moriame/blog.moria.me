@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html manifest="/manifest.appcache">
 <head>
   <meta charset="utf-8">
   <%
@@ -32,9 +32,9 @@
   <meta property="og:site_name" content="<%= config.title %>"/>
 
   <% if(page.cover) { %>
-    <meta property="og:image" content="<%= page.cover %>" />
+  <meta property="og:image" content="<%= page.cover %>" />
   <% } else { %>
-    <meta property="og:image" content="<%= config.cover %>"/>
+  <meta property="og:image" content="<%= config.cover %>"/>
   <% } %>
 
   <link href="<%- config.root %>favicon.png" rel="icon">
